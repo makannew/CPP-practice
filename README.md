@@ -1,7 +1,7 @@
 # C++ practice
-In this repo I practice C++ programming through writing small basic programs.
+In this repo I practice C++ programming through writing small basic programs. At this stage I focused on solutions by using simple variable names and avoid using constraints. So program might be crashed by entering out of range inputs.
 
-here is the list of them.
+here is the list of solutions and codes.
 
 ### [PI number](https://github.com/makannew/CPP-practice-/blob/master/PI.cpp)
 Using simplified [Bailey–Borwein–Plouffe formula](https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula) (The BBP formula for π)to generate PI number. It gets number of decimal digits from user then displays pi and refrenced pi for comparison.
