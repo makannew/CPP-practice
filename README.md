@@ -1,5 +1,6 @@
 # C++ practice
 ========
+
 In this repo I practice C++ programming through writing small basic programs. At this stage I focused on solutions by using simple variable names and avoid using constraints. So, be careful, programs might be crashed by entering out of range inputs.
 
 ## Credits
