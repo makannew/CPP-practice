@@ -8,7 +8,7 @@ In this repo I practice C++ programming through writing small basic programs. At
 This repo is compiled by [Makan Edrisi](https://github.com/makannew)
 - I was inspired by [Mega Project List](https://github.com/karan/Projects/#mega-project-list) by [Karan Goel](https://github.com/karan)
 
-## here is the list of solutions and codes.
+## Here is the list of solutions and codes.
 - [PI number](https://github.com/makannew/CPP-practice/blob/master/README.md#pi-number)
 - [Prime Factoring](https://github.com/makannew/CPP-practice/blob/master/README.md#prime-factoring)
 - [e number](https://github.com/makannew/CPP-practice/blob/master/README.md#e-number)
