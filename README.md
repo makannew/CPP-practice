@@ -21,5 +21,5 @@ The limit of acuracy is about 16 decimal digits as a result of using a long doub
 It gets a number from user then displays all prime factors. At the end it checks if the number itself is a prime number or not. I tryed my best to find simplest solution without any unnecessary calculation to solve the problem.
 
 ### [e number](https://github.com/makannew/CPP-practice/blob/master/e%20number%20calculator.cpp)
-[e (mathematical constant)](https://en.wikipedia.org/wiki/E_(mathematical_constant)) as base of the natural logarithm can be calculated as the sum of the infinite series. To satisfy 16 decimal digits precision of long double variable, it repeats 16 times. 
+[e (mathematical constant)](https://en.wikipedia.org/wiki/E_(mathematical_constant)) as base of the natural logarithm can be calculated as the sum of the infinite series. It adds series calculations to satisfy 16 decimal digits precision of long double data type.
       
