@@ -1,14 +1,14 @@
 # C++ practice
-========
+=========
 
 In this repo I practice C++ programming through writing small basic programs. At this stage I focused on solutions by using simple variable names and avoid using constraints. So, be careful, programs might be crashed by entering out of range inputs.
 
 ## Credits
 
-This repo was compiled by [Makan](https://github.com/makannew)
+This repo is compiled by [Makan](https://github.com/makannew)
 - I was inspired by [Mega Project List](https://github.com/karan/Projects/#mega-project-list) by [Karan Goel](https://github.com/karan)
 
-##here is the list of solutions and codes.
+## here is the list of solutions and codes.
 - [PI number](https://github.com/makannew/CPP-practice/blob/master/README.md#pi-number)
 
 ### [PI number](https://github.com/makannew/CPP-practice/blob/master/PI.cpp)
