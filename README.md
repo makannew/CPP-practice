@@ -10,6 +10,6 @@ The limit of acuracy is about 16 decimal digits as a result of using a long doub
 ### [Prime Factoring](https://github.com/makannew/CPP-practice/blob/master/PrimeFactors.cpp)
 It gets a number from user then displays all prime factors. At the end it checks if the number itself is a prime number or not. I tryed my best to find simplest solution without any unnecessary calculation to solve the problem.
 
-### [e number](https://github.com/makannew/CPP-practice/e number calculator.cpp)
+### [e number](https://github.com/makannew/CPP-practice/blob/master/e%20number%20calculator.cpp)
 [e (mathematical constant)](https://en.wikipedia.org/wiki/E_(mathematical_constant)) as base of the natural logarithm can be calculated as the sum of the infinite series. To satisfy 16 decimal digit precision of long double variable, the program repeat sum of the series up to 16 times. 
       
