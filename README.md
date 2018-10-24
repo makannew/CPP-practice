@@ -27,5 +27,5 @@ It gets a number from user then displays all prime factors. At the end it checks
 [e (mathematical constant)](https://en.wikipedia.org/wiki/E_(mathematical_constant)) as base of the natural logarithm can be calculated as the sum of the infinite series. It adds series calculations to satisfy 16 decimal digits precision of long double data type.
 
 ### [Bubble sorting](https://github.com/makannew/CPP-practice/blob/master/Bubble-Sort.cpp)
-Practice of using [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm to sort array of numbers. It is not very efficient but it can detect already sorted list in first pass.
+Practice of using [bubble sort algorithm](https://en.wikipedia.org/wiki/Bubble_sort) to sort array of numbers. It is not very efficient but it can detect already sorted list in first pass.
       
