@@ -14,7 +14,7 @@ This repo is compiled by [Makan Edrisi](https://github.com/makannew)
 - [PI number](https://github.com/makannew/CPP-practice/blob/master/README.md#pi-number)
 - [Prime Factoring](https://github.com/makannew/CPP-practice/blob/master/README.md#prime-factoring)
 - [e number](https://github.com/makannew/CPP-practice/blob/master/README.md#e-number)
-- [Bubble sorting](https://github.com/makannew/CPP-practice/blob/master/README.md#Bubble sorting)
+- [Bubble sorting](https://github.com/makannew/CPP-practice/blob/master/README.md#Bubble-sorting)
 
 ### [PI number](https://github.com/makannew/CPP-practice/blob/master/PI.cpp)
 Using simplified [Bailey–Borwein–Plouffe formula](https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula) (The BBP formula for π)to generate PI number. It gets number of decimal digits from user then displays pi and refrenced pi for comparison.
