@@ -30,5 +30,5 @@ It gets a number from user then displays all prime factors. At the end it checks
 ### [Bubble sorting](https://github.com/makannew/CPP-practice/blob/master/Bubble-Sort.cpp)
 Practice of using [bubble sort algorithm](https://en.wikipedia.org/wiki/Bubble_sort) to sort array of numbers. It is not very efficient but it can detect already sorted list in first pass.
       
-### [merge-sort algorithm]](https://github.com/makannew/CPP-practice/blob/master/merge_sort.cpp)
+### [merge-sort algorithm](https://github.com/makannew/CPP-practice/blob/master/merge_sort.cpp)
 It is an efficient sorting algorithm
