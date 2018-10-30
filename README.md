@@ -31,4 +31,4 @@ It gets a number from user then displays all prime factors. At the end it checks
 Practice of using [bubble sort algorithm](https://en.wikipedia.org/wiki/Bubble_sort) to sort array of numbers. It is not very efficient but it can detect already sorted list in first pass.
       
 ### [merge-sort algorithm](https://github.com/makannew/CPP-practice/blob/master/merge_sort.cpp)
-[Here](https://en.wikipedia.org/wiki/Merge_sort) is an explanation about merge-sort algorithm. My solution is a bottom-up merge sort whith the difference that it predicts sublist exactly same as top-down sublists. So it is more efficient and also can be used for in-place merge-sorting because for entire stages lenght of two compared sublist always has maximum 1 difference.
+[Here](https://en.wikipedia.org/wiki/Merge_sort) is an explanation about merge-sort algorithm. My solution is a bottom-up merge sort whith the difference that it predicts sublist exactly same as top-down sublists. So it is more efficient and also can be used for in-place merge-sorting because for entire stages lenghts of two compared sublist always have maximum 1 difference.
