@@ -1,7 +1,7 @@
 C++ practice
 =========
 
-In this repo I practice C++ programming through writing small basic programs. At this stage I focused on solutions by using simple structures. Therefore, the programs have not enough protective constraints and they might be crashed by entering out of range inputs.
+In this repo I practice C++ programming through writing small basic programs. At this stage I have focused on solutions by using simple structures. Therefore, the programs have not enough protective constraints and they might be crashed by entering out of range inputs.
 
 ## Credits
 
